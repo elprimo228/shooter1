@@ -1,1 +1,1 @@
-# shooter1
+# maze 1
